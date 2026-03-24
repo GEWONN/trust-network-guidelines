@@ -9,7 +9,7 @@ Although lexical decision tasks are typically low-risk and low-cost experiments,
 - Data safety and storage: In the European Union, data storage needs to comply with the GDPR (as of 2025). It is the researcher's responsibility to ensure that their experiment complies with the local and current standards. 
 
 ## Programming the experiment
-The first step is to program the experiment: We want the experimental software to show each trial and to record the participant’s response to the trial and the reaction time. A lexical decision task can be programmed with medium-low programming skills. Templates are available for beginners on many of the existing experimental platforms (see examples below).
+The first step is to program the experiment: We want the experimental software to show each trial and to record the participant’s response to the trial and the reaction time (RT). A lexical decision task can be programmed with medium-low programming skills. Templates are available for beginners on many of the existing experimental platforms (see examples below).
 
 ### Possible platforms to run the experiment
 Here is a nonexhaustive list of programs used by the group in recent years. Typically, all solutions have a forum for customer support and examples available. Find more information at the webpages linked below. 
