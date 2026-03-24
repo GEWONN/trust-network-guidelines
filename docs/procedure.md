@@ -1,11 +1,11 @@
 ## Before you start the experiment
-Although lexical decision tasks are typically low-risk and low-cost experiments, one must know if they have the available resources. You need to consider several practical aspects before starting data collection, which are mostly the same as for other low-risk psychological experiments:
+Lexical decision tasks are typically low-risk and low-cost experiments. Still, you need to consider available resources and several practical aspects before starting data collection, which are mostly the same as for other low-risk psychological experiments:
 
 - Lab-based study: a quiet lab room with a computer
 - Online study: Web server or funding for a hosting service. 
-- Potentially funding for the research software, but be aware that there are multiple open source software solutions without costs. 
+- Potentially funding for the research software, but be aware that there are multiple open source software solutions without costs. Open source solutions are also preferable, as they allow for easier sharing of the methods for tranparency and reproducibility.
 - Participant reimbursement: How much can I or am I expected to pay participants?
-- Ethics permission: At present, ethics permission is not required by law but may be subject to university, funder, and journal policies. It is highly advised to obtain an ethical vote. In case your university does not have an ethics committee, one can consult the ethics committee of the DGPS (German Society of Psychology)
+- Ethics permission: At present, ethics permission is not required by law in Germany but may be subject to university, funder, and journal policies. It is highly advised to obtain permission from your ethics committee. In case your university does not have an ethics committee, one can consult the ethics committee of the DGPS (German Society of Psychology)
 - Data safety and storage: In the European Union, data storage needs to comply with the GDPR (as of 2025). It is the researcher's responsibility to ensure that their experiment complies with the local and current standards. 
 
 ## Programming the experiment
@@ -27,7 +27,7 @@ Here is a nonexhaustive list of programs used by the group in recent years. Typi
 <!--| Gorilla                            |        |                |                |  |                    |
 | Inquisit                           |        |                |                |  |                    |-->
 
-The performance of the systems/platforms should be checked regarding the timing of the stimulus presentation and the latency of the key press. Information on this can be found [here](https://doi.org/10.7717/peerj.9414) and [here](https://doi.org/10.3758/s13428-020-01501-5).
+The performance of the systems/platforms should be checked, as they may differ regarding the timing of the stimulus presentation and the latency of the key press. Information on this can be found [here](https://doi.org/10.7717/peerj.9414) and [here](https://doi.org/10.3758/s13428-020-01501-5).
 
 ## Participants
 The number of participants should be determined by a power calculation based on the size of the effect of interest (e.g., see [Brysbaert & Stevens, 2018](https://doi.org/10.5334/joc.10)). Note there are differences in power considerations when investigating individual differences (e.g., see [Hedge et al. (2018)](https://doi.org/10.3758/s13428-017-0935-1))
